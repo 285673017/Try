@@ -1,3 +1,5 @@
+The sequence of upload a repository
+
 git init
 git add *
 [user]
