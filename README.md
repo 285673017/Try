@@ -22,5 +22,5 @@ The sequence of fresh my repository
 ensure my new file is already in my origin file
 git add.
 git commit -m "input your beizhu"
-git pull origin master %prevent some wrong   esc :wq enter
+git pull origin master %prevent some wrong   esc :wq enter  git pull origin main --allow-unrelated-histories
 git push origin master
